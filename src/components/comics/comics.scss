@@ -1,4 +1,8 @@
 .comics {
-    background-image: url("../../assets/images/DavesFreeComic.jpg");
+    background-image: url("../../assets/images/GodzillaProfile.jpg");
     display: flex;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
