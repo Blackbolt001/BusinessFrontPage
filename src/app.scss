@@ -4,7 +4,7 @@
     .background { 
         width: 100%;
         height:100%;
-        z-index: -1;
+        z-index: 1;
     }
 
     .sections{ 
@@ -12,7 +12,7 @@
         height: calc(100vh - 70px);
         position: relative;
         top:70px;
-        margin-top: 50px;
+        margin-top: 500px;
         scroll-snap-type: y mandatory;
         z-index: 2;
         scrollbar-width: none; // for firefox
