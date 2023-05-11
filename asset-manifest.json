@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/BusinessFrontPage/static/css/main.9dcbc401.css",
-    "main.js": "/BusinessFrontPage/static/js/main.117e179a.js",
+    "main.css": "/BusinessFrontPage/static/css/main.6e58bf2b.css",
+    "main.js": "/BusinessFrontPage/static/js/main.c1a9a05d.js",
     "static/media/PokemonCards.webp": "/BusinessFrontPage/static/media/PokemonCards.fb652dacb79bc59e87ac.webp",
     "static/media/DavesComicsHeader.jpg": "/BusinessFrontPage/static/media/DavesComicsHeader.873b712546987801f7eb.jpg",
+    "static/media/FreeComicBookDay.jpg": "/BusinessFrontPage/static/media/FreeComicBookDay.c3fc1bc4bc18d968f0ba.jpg",
     "static/media/DavesBackground.jpg": "/BusinessFrontPage/static/media/DavesBackground.492f4394adb18b5cef7a.jpg",
     "static/media/DavesStoreFront.jpg": "/BusinessFrontPage/static/media/DavesStoreFront.e9c2f72294f893f97c23.jpg",
     "index.html": "/BusinessFrontPage/index.html",
-    "main.9dcbc401.css.map": "/BusinessFrontPage/static/css/main.9dcbc401.css.map",
-    "main.117e179a.js.map": "/BusinessFrontPage/static/js/main.117e179a.js.map"
+    "main.6e58bf2b.css.map": "/BusinessFrontPage/static/css/main.6e58bf2b.css.map",
+    "main.c1a9a05d.js.map": "/BusinessFrontPage/static/js/main.c1a9a05d.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dcbc401.css",
-    "static/js/main.117e179a.js"
+    "static/css/main.6e58bf2b.css",
+    "static/js/main.c1a9a05d.js"
   ]
 }
