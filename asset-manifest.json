@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BusinessFrontPage/static/css/main.ba50ae1a.css",
+    "main.js": "/BusinessFrontPage/static/js/main.63f23f6c.js",
+    "static/media/comics.png": "/BusinessFrontPage/static/media/comics.171857e6d2c242d9c000.png",
+    "static/media/comic.png": "/BusinessFrontPage/static/media/comic.8e8474d171bd493901a2.png",
+    "index.html": "/BusinessFrontPage/index.html",
+    "main.ba50ae1a.css.map": "/BusinessFrontPage/static/css/main.ba50ae1a.css.map",
+    "main.63f23f6c.js.map": "/BusinessFrontPage/static/js/main.63f23f6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba50ae1a.css",
+    "static/js/main.63f23f6c.js"
+  ]
+}
