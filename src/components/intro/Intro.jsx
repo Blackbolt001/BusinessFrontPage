@@ -17,7 +17,7 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imageContainer">
-          <img src = "assets/comics.png" alt="comics"></img>
+          <img src={require("../../assets/comic.png")} alt="comics"></img>
         </div>
       </div>
       <div className="right">
@@ -27,7 +27,7 @@ export default function Intro() {
           <h3> your home for <span ref={textRef}>Collectibles</span></h3>
         </div>
         <a href="#portfolio">
-          <img src="assets/down.png" alt="down arrow">
+          <img src={require("../../assets/down.png")} alt="down arrow">
 
           </img>
         </a>
