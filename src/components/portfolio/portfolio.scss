@@ -1,0 +1,45 @@
+.portfolio {
+    background-color: white;
+    background-image: url("../../assets/comics.png");
+    background-size: cover;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1;
+
+    h1{
+        font-size: 50px;
+    }
+
+    ul{
+        margin:10px;
+        padding: 0;
+        list-style: none;
+        display: flex;
+    }
+
+    li{
+        font-size: 12px;
+        margin-right: 5px;
+        padding:0.7 ;
+    }
+    .container{
+        width: 100%;
+        height: 90%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+
+        img{
+            width: 30vw;
+            height: 50vh;
+            margin-right: 15px;
+            border-radius: 10%;
+            z-index: 3;
+            box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+            border-color: yellow;
+            border-style: inset;
+        }
+    }
+}

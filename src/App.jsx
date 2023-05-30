@@ -1,21 +1,28 @@
-import Header from "./components/header/Header";
-import Main from "./components/main/Main";
-import Background from "./components/background/Background";
-import Comics from "./components/comics/Comics";
+import Topbar from "./components/topbar/Topbar";
+import Intro from "./components/intro/Intro";
+import Portfolio from "./components/portfolio/Portfolio";
+import Works from "./components/works/Works";
+import Testimonials from "./components/testimonials/Testimonials";
+import Contact from "./components/contact/Contact";
 import "./app.scss";
+import { useState } from "react";
+import Menu from "./components/menu/Menu";
 
 function App() {
-    return (
-        <div className="app">
-            <Header/>
-           <div className="main">
-            <Background/>
-            <div className="sections">
-            <Main/>
-            <Comics/>
-            </div>
-            </div>
-        </div>
-    );
+  const [menuOpen,setMenuOpen] = useState(false)
+  return (
+    <div className="app">
+      <Topbar menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
+      <Menu menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
+      <div className="sections">
+        <Intro/>   
+        <Portfolio/> 
+        <Works/>
+        <Testimonials/> 
+        <Contact/>
+      </div>
+    </div>
+  );
 }
+
 export default App;
