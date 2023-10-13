@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.536fa3aa.css",
-    "main.js": "/static/js/main.d05b512e.js",
-    "static/media/comics.png": "/static/media/comics.171857e6d2c242d9c000.png",
+    "main.css": "/static/css/main.9b33dbe8.css",
+    "main.js": "/static/js/main.e0892e83.js",
     "static/media/DC-Comics-PNG-Background-Image.png": "/static/media/DC-Comics-PNG-Background-Image.e73fbd883426e2fef1b3.png",
     "index.html": "/index.html",
-    "main.536fa3aa.css.map": "/static/css/main.536fa3aa.css.map",
-    "main.d05b512e.js.map": "/static/js/main.d05b512e.js.map"
+    "main.9b33dbe8.css.map": "/static/css/main.9b33dbe8.css.map",
+    "main.e0892e83.js.map": "/static/js/main.e0892e83.js.map"
   },
   "entrypoints": [
-    "static/css/main.536fa3aa.css",
-    "static/js/main.d05b512e.js"
+    "static/css/main.9b33dbe8.css",
+    "static/js/main.e0892e83.js"
   ]
 }
